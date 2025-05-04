@@ -1,0 +1,21 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+p {
+  text-align: center;
+}
